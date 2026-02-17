@@ -7,9 +7,9 @@ I decided to recreate it. I used ChatGPT and got nowhere. Gemini and I initially
 
 [![View Live Demo](https://img.shields.io/badge/View-Live%20Demo-2ea44f?style=for-the-badge)](https://kevanmacgee.github.io/sublime-button-example/index.html)
 
-( !!! Note: everything written after this was written by Gemini.)
-
 ![Button demo](images/button-demo.gif)
+
+( !!! Note: everything written after this paragraph was written by Gemini.)
 
 ## **Magnetic 3D "Staring" Button**
 
