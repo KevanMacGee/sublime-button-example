@@ -1,9 +1,13 @@
 ## **Copying the Sublime "buy tickets" Button**
-I saw the website of the band Sublime and really liked the motion of the "Buy Tickets Now" button. 
+I saw the website of the band Sublime and really liked the motion of the "Buy Tickets Now" button. https://www.megustafest.com/copy-of-home
 
 ![Me Gusta Festival screenshot](images/original-demo.gif)
 
-I decided to recreate it. I used ChatGPT and got nowhere. Gemini and I initially looked at the code of the website and did get some hints, but the model said it was familiar with the effect and provided a replica example, but that wasn't that close. I went back and forth with it refining it, tweaked a few numbers manually and looking at the original code, then eventually landed on the example in the video. See how to do it below. ( !!! Note: everything written after this paragraph was written by Gemini.)
+I decided to recreate it. I used ChatGPT and got nowhere. Gemini and I initially looked at the code of the website and did get some hints, but the model said it was familiar with the effect and provided a replica example, but that wasn't that close. I went back and forth with it refining it, tweaked a few numbers manually and looking at the original code, then eventually landed on the example in the video. Check out the demo and then see how to do it below. 
+
+[![View Live Demo](https://img.shields.io/badge/View-Live%20Demo-2ea44f?style=for-the-badge)](https://kevanmacgee.github.io/sublime-button-example/sublime-wix.html)
+
+( !!! Note: everything written after this paragraph was written by Gemini.)
 
 ![Button demo](images/button-demo.gif)
 
