@@ -1,4 +1,4 @@
-## **Copying the Sublime "buy tickets" Button**
+## **Copying the Sublime "Buy tickets" Button**
 I saw the website of the band Sublime and really liked the motion of the "Buy Tickets Now" button. https://www.megustafest.com/copy-of-home
 
 ![Me Gusta Festival screenshot](images/original-demo.gif)
