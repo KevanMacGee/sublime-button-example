@@ -9,7 +9,7 @@ I decided to recreate it. I used ChatGPT and got nowhere. Gemini and I initially
 
 ![Button demo](images/button-demo.gif)
 
-( !!! Note: everything written after this paragraph was written by Gemini.)
+⚠️I had Gemini write the walkthrough below. It is not human generated.
 
 ## **Magnetic 3D "Staring" Button**
 
