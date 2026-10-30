@@ -3,7 +3,9 @@ I saw the website of the band Sublime and really liked the motion of the "Buy Ti
 
 ![Me Gusta Festival screenshot](images/original-demo.gif)
 
-I decided to recreate it. I used ChatGPT and got nowhere. Gemini and I initially looked at the code of the website and did get some hints, but the model said it was familiar with the effect and provided a replica example, but that wasn't that close. I went back and forth with it refining it, tweaked a few numbers manually and looking at the original code, then eventually landed on the example in the video. Check out the demo and then see how to do it below. 
+I liked the motion of the button and decided to recreate it. I tried Chatgpt and it is did it but the motion was off and the code was sort of backwards. So I tried Gemini and it did an okay job but it still wasn't great. That is the version that I reworked, tweaked and finally just changed the numbers with until I liked the motion.
+
+(_Edit in Oct '26_: It is astounding that in Jan '26 when this was built, it wasn't surprising when a big model stumbled on this. Now it's almost November '26 and I would be shocked if AI didn't one shot this with no teaking of it needed.)
 
 [![View Live Demo](https://img.shields.io/badge/View-Live%20Demo-2ea44f?style=for-the-badge)](https://kevanmacgee.github.io/sublime-button-example/index.html)
 
